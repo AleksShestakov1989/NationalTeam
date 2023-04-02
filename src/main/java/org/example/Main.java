@@ -11,6 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(national_team(regionalTeams)));
+        System.out.println("Bay");
     }
 
     public static int[] merge(int[] team, int[] regionalTeam) {
